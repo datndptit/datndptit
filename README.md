@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="datndptit's GitHub profile" src="dark_mode.svg" />
+</picture>
 <h1 align="center">Hi 👋, I'm Dat Nguyen Duy</h1>
 <h3 align="center">Cyberspace Guardian</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/1*D7Zpqwm2nSQ7uWL5ovh-XQ.gif">
